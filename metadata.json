@@ -1,0 +1,5 @@
+{
+  "name": "Base64 Image Converter",
+  "description": "A powerful and easy-to-use tool to convert your images into base64-encoded strings instantly. Perfect for embedding images directly into HTML, CSS, and email templates, reducing HTTP requests and improving load times.",
+  "requestFramePermissions": []
+}
