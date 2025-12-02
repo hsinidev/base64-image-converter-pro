@@ -11,7 +11,7 @@ A powerful, modern, and visually stunning tool to instantly convert your images 
 
 ---
 
-### 🚀 [LIVE DEMO: doodax.com](https://doodax.com)
+### 🚀 [LIVE DEMO: doodax.com](https://doodax.com/tools/base64-image-converter/index.html)
 
 ---
 
